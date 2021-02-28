@@ -1,6 +1,6 @@
 # trump V1.0
-Este es un herramienta Phishing con 13 Plantillas de diferentes redes 
--No me hago cargo de su uso ..
+Es un herramienta Phishing con 13 Plantillas de diferentes redes 
+-No me hago Responsable  De Su Uso ..
 # Instalacion 
 
 ° git clone https://github.com/JoNlpk/trump
@@ -11,9 +11,9 @@ chmod +x underwater.sh
 
 bash underwater.sh
 
-# Listo
-
+## Listo
+_{
 # Autor lpk
 - Y como El Conocimiento es libre Hice esta herramienta ... 
 
-# Gracias..
+### Gracias..
