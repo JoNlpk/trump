@@ -1,9 +1,9 @@
-# trump V1.0
+# ❗ Trump V1.0
 
 <h3>Es un herramienta Phishing con 13 Plantillas de diferentes redes 
 -No me hago Responsable  De Su Uso .. </h3>
 
-# Instalacion 
+# 🧷 Instalacion 
 
 <strong> git clone </strong> <a>https://github.com/JoNlpk/trump </a>
 
@@ -13,8 +13,7 @@
 
 <strong> bash underwater.sh </strong>
 
-# Ready !
+# ✔ Autor lpk_Treft
 
-# Autor lpk
-<p> Y como El Conocimiento es libre Hice esta herramienta </p> 
+<h3> <b>Y como El Conocimiento es libre Hice esta herramienta<b> </h3> 
 
