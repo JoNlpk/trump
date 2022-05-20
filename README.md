@@ -5,9 +5,9 @@
 
 # Instalacion 
 
-<p> git clone https://github.com/JoNlpk/trump </p>
+<strong> git clone </strong> <a>https://github.com/JoNlpk/trump </a>
 
-<p> cd trump </p>
+<strong> cd trump </strong>
 
 <strong> chmod +x underwater.sh </strong>
 
